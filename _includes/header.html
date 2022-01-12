@@ -2,11 +2,13 @@
 	<div class="container">
 <div class="row">
 			<div class="col-md-6 offset-md-3">
-				<img src="{{site.logo}}" class="logo">
-				<p class="lead">{{site.author-description}}</p>
+	<center>			<img src="{{site.logo}}" class="logo">
+	</center>
+	<center>			<p class="lead">{{site.author-description}}</p>
+		<//center>
 				{% if site.fb-community %}
-					<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
-				{% endif %}
+	<center>				<a class="btn btn-accent btn-block" href="https://facebook.com/groups/{{site.fb-community}}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i> Join on Facebook</a>
+	</center>			{% endif %}
 				{% if site.slack-signup %}
 					<a class="btn btn-accent btn-block" href="{{site.slack-signup}}" target="_blank"><i class="fa fa-slack" aria-hidden="true"></i> Join on Slack</a>
 				{%endif%}
