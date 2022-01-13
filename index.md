@@ -14,7 +14,7 @@ layout: base
                     <a {% unless event.url == null %} href="{{event.url}}" {% endunless %} target="_blank" class="event-url">
                         <div class="panel panel-default ">
                             <div class="panel-heading">
-                                <span class="past-text biko">PAST</span>
+                                <span class="past-text biko">Eventos Passados</span>
                                 {% if event.image-url %}<img class="img-responsive {% unless event.light_background == null %}light_background{% endunless %}" src="{{event.image-url}}">{%endif%}
                                 <h4 class="biko {% unless event.light_background == null %}light_background{% endunless %}" >{{event.name}}</h4>
                             </div>
@@ -30,7 +30,7 @@ layout: base
             {% endfor %}
         </div>
         <div class="row text-center">
-            <a class="btn btn-accent calendar biko" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Add to Google Calendar</a>
+            <a class="btn btn-accent calendar biko" href="https://calendar.google.com/calendar/r?cid=webcal://{{ site.domain }}/calendars/events.ics" target="_blank">Adicione nossa programação no Google Agenda</a>
         </div>
     </div>
 </section>
