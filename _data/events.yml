@@ -1,40 +1,30 @@
-- name: HackUPC Winter 2017
-  line: BarcelonaTech's hackathon. 500 hackers. 36h. March 3rd-5th
+## Eventos futuros, colocar em ordem crescente
+
+- name: Evento 1
+  line: Descrição do evento 1, dá pra escrever 2 linhas.
   image-url: assets/img/hackupcwinter2017.png
-  date: 2022-03-03 3:00 PM 
-  end-date: 2022-03-05 4:30 PM 
-  location: Campus Nord
-  url: https://w2017.hackupc.com
+  date: 2022-01-14 3:00 PM 
+  end-date: 2022-01-14 4:30 PM 
+  url: https://www.facebook.com/cursinhoasol/posts/5070215649665856
+  
+- name: Evento 2
+  line: Descrição do evento 1, dá pra escrever 2 linhas.
+  date: 2022-01-16 3:00 PM 
+  end-date: 2022-01-16 3:00 PM 
+  url: https://www.facebook.com/cursinhoasol/posts/5070215649665856
 
-- name: Introduction to Docker
-  line: Join us for an introductory workshop on docker
-  date: 2017-05-17 12:00 PM 
-  end-date: 2017-05-17 1:00 PM 
-  location: A5001
-  url: https://www.facebook.com/events/205382139972607/
+## Eventos passados, colocar do mais recente para o mais antigo
 
-- name: HackUPC Fall 2017
-  line: BarcelonaTech's hackathon. 700 hackers. 36h. Oct 13th-15th.
+- name: Evento 0
+  line: Descrição do evento 0, dá pra escrever 2 linhas.
   image-url: assets/img/hackupcfall2017.png
   date: 2017-10-13 3:00 PM 
   end-date: 2017-10-15 4:30 PM 
-  location: Campus Nord
-  url: https://hackupc.com
-
-- name: Introduction to Web Development with Flask
-  line:  Introduction to one of the most popular python web microframeworks. 
-  date: 2017-10-25 12:00 PM 
-  end-date: 2017-10-25 1:00 PM 
-  location: A6106
-  url: https://www.facebook.com/events/158389091423158/
+  url: https://www.facebook.com/cursinhoasol/posts/5070215649665856
   
-- name: Why you should learn Go today
-  line: Learn Go, the de-facto language of the cloud
-  date: 2018-05-23 12:00 PM
-  end-date: 2018-05-23 12:50 PM
-  location: A6101
-  url: https://www.facebook.com/events/878540245651285/
-
-
-
-
+- name: Evento antigo
+  line: Descrição do evento antigo, dá pra escrever 2 linhas.
+  image-url: assets/img/hackupcfall2017.png
+  date: 2017-10-11 3:00 PM 
+  end-date: 2017-10-11 4:30 PM 
+  url: https://www.facebook.com/cursinhoasol/posts/5070215649665856
