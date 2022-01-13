@@ -16,7 +16,7 @@ accent_color: "#F44336"
 events_overlay_color: "#F1C232"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
-events_bg_img: https://raw.githubusercontent.com/asolgru/centrocomunitario/master/assets/img/fundo.jpeg
+events_bg_img: assets/img/fundo.jpeg
 
 # START THEME 2
 # accent_color: "#AA401B"
