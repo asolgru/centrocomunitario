@@ -8,7 +8,7 @@ logo: /assets/img/logo.png
 original_repo: https://github.com/hackupc/hackersatupc.org
 description: Centro Comunitário A-Sol
 ga: 
-domain: hackersatupc.org
+domain: http://cursinhoasol.com.br/centrocomunitario/
 
 
 # Style variables
@@ -39,29 +39,27 @@ events_bg_img: assets/img/people.jpg
 # END WINTER THEME
 
 # Author variables
-author: Hackers@UPC
-author-description: "Hackers@UPC is a student organization at Universitat Politècnica de Catalunya who brings together
-    people for our technology and design event: HackUPC. Our mission is to foster learning, designing, and building in order to turn student's ideas into a reality!"
-email: contact@hackersatupc.org
+author: Centro Comunitário A-Sol
+author-description: "Localizado na cidade de Guarulhos, o Centro Comunitário A-Sol atua como espaço de atividades educacionais, políticas e culturais vinculadas à luta social da atualidade."
+email: adm.asol@outlook.com
 
 # Social media + community variables
-twitter: hackersupc
-fb: hackersatupc
-fb-community: hackersatupc
-
-# instagram: hackcu
-github-org: hackupc
+# twitter: hackersupc
+fb: cursinhoasol
+# fb-community: hackersatupc
+instagram: cursinhoa.sol
+# github-org: hackupc
 
 
 
 # TIMEZONE
 # Needs to be string from: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Europe/Madrid
+timezone: America/Sao_Paulo
 # Based on: http://erics-notes.blogspot.com/2013/05/fixing-ics-time-zone.html
 ical_timezone: |-
   BEGIN:DAYLIGHT
-  TZOFFSETFROM:+0100
-  TZOFFSETTO:+0200
+  TZOFFSETFROM:-0300
+  TZOFFSETTO:-0300
   TZNAME:CEST
   DTSTART:19700308T020000
   RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=4SU
