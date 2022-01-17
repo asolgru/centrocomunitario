@@ -1,34 +1,26 @@
 ## Eventos futuros, colocar em ordem crescente
 
-- name: Reunião de Acolhida e matrícula dos estudantes do Cursinho A-Sol
-  line: Descrição do evento 1, dá pra escrever 3 linhas.
+- name: 
+  line: Reunião de Acolhida e matrícula dos estudantes do Cursinho A-Sol
   image-url: assets/image/asol.png
   date: 2022-01-29 11:58 PM 
   end-date: 2022-01-29 11:59 PM 
   location: 10h
   url: https://www.facebook.com/cursinhoasol/
 
-- name: Festa Inauguração da nova sede do Havana FC
-  line: Descrição do evento 1, dá pra escrever 3 linhas.
+- name: 
+  line: Festa Inauguração da nova sede do Havana FC
   image-url: assets/image/havana.png
   date: 2022-02-27 11:58 PM 
   end-date: 2022-02-27 11:59 PM 
   location: XXh
   url: https://www.facebook.com/havanafutebolclube/
   
-- name: Hamburgada Vegana, Havana FC
-  line: Descrição do evento 1, dá pra escrever 3 linhas.
+- name: 
+  line: Hamburgada Vegana, Havana FC
   image-url: assets/image/havana.png
   date: 2022-03-05 11:58 PM 
   end-date: 2022-03-05 11:59 PM 
   location: XXh
   url: https://www.facebook.com/havanafutebolclube/
-  
-## Eventos passados, colocar do mais recente para o mais antigo
-
-- name: Exemplo de Evento Antigo
-  line: Descrição do evento 0, dá pra escrever 2 linhas.
-  image-url: assets/img/hackupcfall2017.png
-  date: 2017-10-13 3:00 PM 
-  end-date: 2017-10-15 4:30 PM 
-  url: https://www.facebook.com/cursinhoasol/posts/5070215649665856
+ 
