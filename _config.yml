@@ -12,7 +12,7 @@ domain: http://cursinhoasol.com.br/centrocomunitario/
 
 
 # Style variables
-accent_color: "#F44336"
+accent_color: "#b50c00"
 events_overlay_color: "#F1C232"
 background_color: "#FAFAFA"
 footer_text_color: "#666666"
