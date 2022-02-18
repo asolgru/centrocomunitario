@@ -17,7 +17,7 @@
   url: https://www.facebook.com/cursinhoasol/
 
 - name: 
-  line: Hamburgada Vegana, Havana FC
+  line: Projeto Rango Vegano, Havana FC
   image-url: assets/image/havana.png
   date: 2022-03-05 11:58 PM 
   end-date: 2022-03-05 11:59 PM 
@@ -32,6 +32,14 @@
   location: 13h
   url: https://www.facebook.com/havanafutebolclube/
 
+- name: 
+  line: Projeto Rango Vegano, Havana FC
+  image-url: assets/image/havana.png
+  date: 2022-04-02 11:58 PM 
+  end-date: 2022-04-02 11:59 PM 
+  location: 18h
+  url: https://www.facebook.com/havanafutebolclube/
+  
 - name: 
   line: Resenha do Havanão pós-festival
   image-url: assets/image/havana.png
@@ -49,7 +57,7 @@
   url: https://www.facebook.com/cursinhoasol/
  
 - name: 
-  line: Hamburgada Vegana, Havana FC
+  line: Projeto Rango Vegano, Havana FC
   image-url: assets/image/havana.png
   date: 2022-05-14 11:58 PM 
   end-date: 2022-05-14 11:59 PM 
@@ -65,7 +73,7 @@
   url: https://www.facebook.com/havanafutebolclube/
   
 - name: 
-  line: Festa Junina
+  line: Festa Julina
   image-url: assets/image/asol.png
   date: 2022-07-17 11:58 PM 
   end-date: 2022-07-17 11:59 PM 
@@ -79,19 +87,3 @@
   end-date: 2022-07-25 11:59 PM 
   location: Horário a Definir
   url: https://www.facebook.com/cursinhoasol/
-
-- name: 
-  line: Exposição Artística - Dia da Mulher Negra, Latina e Caribenha
-  image-url: assets/image/asol.png
-  date: 2022-07-25 11:58 PM 
-  end-date: 2022-07-25 11:59 PM 
-  location: Horário a Definir
-  url: https://www.facebook.com/cursinhoasol/
-  
-- name: 
-  line: Festa Inauguração da nova sede do Havana FC
-  image-url: assets/image/havana.png
-  date: 2022-02-27 11:58 PM 
-  end-date: 2022-02-27 11:59 PM 
-  location: Horário a Definir
-  url: https://www.facebook.com/havanafutebolclube/
