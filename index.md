@@ -22,7 +22,7 @@ layout: base
                                 <p>{{event.line}}</p>
                             </div>
                             <div class="panel-footer">
-                                {{event.date |  date: "%d/%m/%y" }} {% unless event.location == null or event.date == null  %}, {% endunless %} {{event.location}}
+                                {{event.date |  date: "%d/%m/%y" }}{% unless event.location == null or event.date == null  %}, {% endunless %} {{event.location}}
                             </div>
                         </div>
                     </a>
