@@ -30,7 +30,7 @@ layout: base
             {% endfor %}
         </div>
         <div class="row text-center">
-            	<a class="btn btn-accent btn-block" href="https://calendar.google.com/calendar/u/1?cid=cXM5c2doNHJwb3VhYjRwYmozN3VpcTBuOW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ" target="_blank"><i class="fa fa-calendar" aria-hidden="true"></i>Adicione no Google Agenda</a>
+            	<a class="btn btn-accent btn-block" href="https://calendar.google.com/calendar/ical/qs9sgh4rpouab4pbj37uiq0n9o%40group.calendar.google.com/public/basic.ics" target="_blank"><i class="fa fa-calendar" aria-hidden="true"></i>Adicione no Google Agenda</a>
         </div>
     </div>
 </section>
