@@ -1,20 +1,12 @@
 ## Eventos futuros, colocar em ordem crescente
 
 - name: 
-  line: Cinedebate A-Sol - Documentário ``A 13° Emenda``
-  image-url: assets/image/cinema.png
-  date: 2022-02-20 11:58 PM 
-  end-date: 2022-02-20 11:59 PM 
-  location: 14h
-  url: https://www.facebook.com/cursinhoasol/
-
-- name: 
-  line: Projeto Rango Vegano, Havana FC
-  image-url: assets/image/havana.png
-  date: 2022-03-05 11:58 PM 
-  end-date: 2022-03-05 11:59 PM 
-  location: 18h
-  url: https://www.facebook.com/havanafutebolclube/
+  line: Mini Curso de Inglês no Cursinho Comunitário A-Sol com a Prof. Amanda Mazo (@amandaamazo). Clique para mais informações.
+  image-url: assets/image/asol.png
+  date: 2022-09-20 11:58 PM 
+  end-date: 2022-09-20 11:59 PM 
+  location: 
+  url: https://www.instagram.com/p/Cazv-51us9W/
 
 - name: 
   line: Inauguração da casa do Havanão, pós-rachão
