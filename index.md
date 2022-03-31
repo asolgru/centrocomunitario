@@ -30,7 +30,6 @@ layout: base
             {% endfor %}
         </div>
         <div class="row text-center">
-            	<a class="btn btn-accent btn-block" href="https://calendar.google.com/calendar/ical/qs9sgh4rpouab4pbj37uiq0n9o%40group.calendar.google.com/public/basic.ics" target="_blank"><i class="fa fa-calendar" aria-hidden="true"></i>Adicione no Google Agenda</a>
         </div>
     </div>
 </section>
