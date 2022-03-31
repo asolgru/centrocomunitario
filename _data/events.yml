@@ -1,37 +1,45 @@
 ## Eventos futuros, colocar em ordem crescente
 
 - name: 
-  line: Mini Curso de Inglês com a Prof. Amanda Mazo (@amandaamazo). Clique para mais informações.
-  image-url: assets/image/asol.png
-  date: 2022-03-09 11:58 PM 
-  end-date: 2022-03-09 11:59 PM 
-  location: 
-  url: https://www.instagram.com/p/Cazv-51us9W/
-
-- name: 
-  line: Inauguração da casa do Havanão, pós-rachão
+  line: Boxe do Havana
   image-url: assets/image/havana.png
-  date: 2022-03-13 11:58 PM 
-  end-date: 2022-03-13 11:59 PM 
-  location: 13h
-  url: https://www.facebook.com/havanafutebolclube/
-
-- name: 
-  line: Projeto Rango Vegano, Havana FC
-  image-url: assets/image/havana.png
-  date: 2022-04-02 11:58 PM 
-  end-date: 2022-04-02 11:59 PM 
-  location: 18h
+  date: 2022-04-04 11:58 PM 
+  end-date: 2022-04-04 11:59 PM 
+  location: Toda segunda, 20h
   url: https://www.facebook.com/havanafutebolclube/
   
 - name: 
-  line: Resenha do Havanão pós-festival
+  line: Festa Marx Corneteiro com Baquira Sound 
   image-url: assets/image/havana.png
   date: 2022-04-10 11:58 PM 
   end-date: 2022-04-10 11:59 PM 
-  location: 13h
+  location: Horário a definir
   url: https://www.facebook.com/havanafutebolclube/
  
+ - name: 
+  line: Jogos do Buteco Socialista 
+  image-url: assets/image/havana.png
+  date: 2022-04-21 11:58 PM 
+  end-date: 2022-04-21 11:59 PM 
+  location: Horário a definir
+  url: https://www.facebook.com/havanafutebolclube/
+ 
+  - name: 
+  line: Café da manhã para o time feminino e atividade de Páscoa 
+  image-url: assets/image/havana.png
+  date: 2022-04-21 11:58 PM 
+  end-date: 2022-04-21 11:59 PM 
+  location: Horário a definir
+  url: https://www.facebook.com/havanafutebolclube/
+  
+  - name: 
+  line: Projeto Rango Vegano, Havana FC
+  image-url: assets/image/havana.png
+  date: 2022-04-23 11:58 PM 
+  end-date: 2022-04-23 11:59 PM 
+  location: 18h
+  url: https://www.facebook.com/havanafutebolclube/
+  
 - name: 
   line: Sarau do Cursinho A-Sol
   image-url: assets/image/asol.png
@@ -40,20 +48,52 @@
   location: Horário a Definir
   url: https://www.facebook.com/cursinhoasol/
  
-- name: 
-  line: Projeto Rango Vegano, Havana FC
+ - name: 
+  line: Buteco socialista pós jogo 
   image-url: assets/image/havana.png
-  date: 2022-05-14 11:58 PM 
-  end-date: 2022-05-14 11:59 PM 
-  location: 18h
+  date: 2022-05-01 11:58 PM 
+  end-date: 2022-05-01 11:59 PM 
+  location: Horário a Definir
   url: https://www.facebook.com/havanafutebolclube/
  
 - name: 
-  line: Resenha do Havanão pós-copa
+  line: Festa Cubana
   image-url: assets/image/havana.png
   date: 2022-05-15 11:58 PM 
   end-date: 2022-05-15 11:59 PM 
-  location: 14h
+  location: Horário a Definir
+  url: https://www.facebook.com/havanafutebolclube/
+
+- name: 
+  line: Projeto Rango Vegano, Havana FC
+  image-url: assets/image/havana.png
+  date: 2022-05-28 11:58 PM 
+  end-date: 2022-05-28 11:59 PM 
+  location: 18h
+  url: https://www.facebook.com/havanafutebolclube/
+
+ - name: 
+  line: Buteco socialista pós jogo 
+  image-url: assets/image/havana.png
+  date: 2022-06-06 11:58 PM 
+  end-date: 2022-06-06 11:59 PM 
+  location: Horário a Definir
+  url: https://www.facebook.com/havanafutebolclube/
+
+ - name: 
+  line: Mercado Rosa Choque LGBTQI+
+  image-url: assets/image/havana.png
+  date: 2022-06-19 11:58 PM 
+  end-date: 2022-06-19 11:59 PM 
+  location: Horário a Definir
+  url: https://www.facebook.com/havanafutebolclube/
+  
+   - name: 
+  line: Aniversário Havana/Velha Guarda/ Lançamento do doc do Havana FC
+  image-url: assets/image/havana.png
+  date: 2022-07-10 11:58 PM 
+  end-date: 2022-07-10 11:59 PM 
+  location: Horário a Definir
   url: https://www.facebook.com/havanafutebolclube/
   
 - name: 
