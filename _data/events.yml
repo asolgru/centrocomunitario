@@ -57,6 +57,14 @@
   url: https://www.facebook.com/havanafutebolclube/
   
 - name: 
+  line: Aulas de Zumba
+  image-url: assets/image/centro.png
+  date: 2022-05-06 11:58 PM 
+  end-date: 2022-05-06 11:59 PM 
+  location: Toda sexta, 19h30 às 20h30
+  url: https://www.facebook.com/cursinhoasol/
+  
+- name: 
   line: Festa Cubana
   image-url: assets/image/havana.png
   date: 2022-05-15 11:58 PM 
