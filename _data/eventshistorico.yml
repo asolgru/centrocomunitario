@@ -38,3 +38,19 @@
   end-date: 2022-03-13 11:59 PM 
   location: 13h
   url: https://www.facebook.com/havanafutebolclube/
+
+- name: 
+  line: Mini-curso Cartografia (Clique para mais detalhes)
+  image-url: assets/image/asol.png
+  date: 2022-04-05 11:58 PM 
+  end-date: 2022-04-05 11:59 PM 
+  location: Toda terça, 19h30
+  url: https://www.instagram.com/p/Cbu4bvruLPn/
+  
+- name: 
+  line: Festa Marx Corneteiro com Baquira Sound 
+  image-url: assets/image/havana.png
+  date: 2022-04-10 11:58 PM 
+  end-date: 2022-04-10 11:59 PM 
+  location: Horário a definir
+  url: https://www.facebook.com/havanafutebolclube/
