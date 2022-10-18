@@ -54,3 +54,35 @@
   end-date: 2022-04-10 11:59 PM 
   location: Horário a definir
   url: https://www.facebook.com/havanafutebolclube/
+  
+  - name: 
+  line: Projeto de Orientação Vocacional com a psicóloga Joseleide Soares Pereira
+  image-url: assets/image/asol.png
+  date: 2022-04-21 11:58 PM 
+  end-date: 2022-04-21 11:59 PM 
+  location: Toda quinta das 19h às 20h30
+  url: https://www.instagram.com/p/CcOqw02uftA/
+  
+- name: 
+  line: Sarau do Cursinho A-Sol
+  image-url: assets/image/asol.png
+  date: 2022-04-24 11:58 PM 
+  end-date: 2022-04-24 11:59 PM 
+  location: Horário a Definir
+  url: https://www.facebook.com/cursinhoasol/
+  
+- name: 
+  line: Festa Julina
+  image-url: assets/image/asol.png
+  date: 2022-07-24 11:58 PM 
+  end-date: 2022-07-24 11:59 PM 
+  location: Horário a Definir
+  url: https://www.facebook.com/cursinhoasol/
+  
+- name: 
+  line: Exposição Artística - Dia da Mulher Negra, Latina e Caribenha
+  image-url: assets/image/asol.png
+  date: 2022-07-25 11:58 PM 
+  end-date: 2022-07-25 11:59 PM 
+  location: Horário a Definir
+  url: https://www.facebook.com/cursinhoasol/
